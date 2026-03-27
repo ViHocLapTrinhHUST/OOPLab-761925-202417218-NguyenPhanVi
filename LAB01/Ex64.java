@@ -17,7 +17,7 @@ public class Ex64 {
             try {
                 year = Integer.parseInt(yearInput);
                 if (year < 0) {
-                    System.out.println("Invalid year. Must be a non-negative number. Please try again.\n");
+                    System.out.println("Invalid yeagr. Must be a non-negative number. Please try again.\n");
                     continue; 
                 }
             } catch (NumberFormatException e) {
