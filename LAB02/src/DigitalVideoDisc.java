@@ -1,3 +1,5 @@
+package LAB02.src;
+
 public class DigitalVideoDisc {
     private String title;
     private String category;
