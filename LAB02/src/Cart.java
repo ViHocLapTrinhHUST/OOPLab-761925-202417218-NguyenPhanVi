@@ -46,4 +46,13 @@ public class Cart {
         }
         System.out.println("Total cost: " + totalCost());
     }
+    public void addDigitalVideoDisc(DigitalVideoDisc[] dvdList) {
+        for (int i = 0; i < dvdList.length; i++) {
+            addDigitalVideoDisc(dvdList[i]);
+        }
+    }
+    public void addDigitalVideoDisc(DigitalVideoDisc dvd1, DigitalVideoDisc dvd2) {
+        addDigitalVideoDisc(dvd1);
+        addDigitalVideoDisc(dvd2);
+    }
 }
