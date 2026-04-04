@@ -1,6 +1,7 @@
 package LAB02.src;
 
 public class DigitalVideoDisc {
+    void setTitle(String title) { this.title = title; }
     private String title;
     private String category;
     private String director;
