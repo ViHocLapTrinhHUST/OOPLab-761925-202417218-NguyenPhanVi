@@ -1,4 +1,4 @@
-package LAB02.src;
+package OtherProjects.hust.soict.globalict.lab02.LAB02.src;
 
 public class Cart {
     public static final int MAX_NUMBERS_ORDERED = 20;

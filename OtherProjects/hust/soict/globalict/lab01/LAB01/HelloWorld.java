@@ -1,4 +1,4 @@
-package LAB01;
+package OtherProjects.hust.soict.globalict.lab01.LAB01;
 
 public class HelloWorld {
     public static void main(String args[]) {

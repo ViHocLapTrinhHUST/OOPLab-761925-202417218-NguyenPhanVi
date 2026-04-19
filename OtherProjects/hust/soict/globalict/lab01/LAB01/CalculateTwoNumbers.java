@@ -1,4 +1,4 @@
-package LAB01;
+package OtherProjects.hust.soict.globalict.lab01.LAB01;
 import javax.swing.JOptionPane;
 public class CalculateTwoNumbers {
     public static void main(String[] args) {

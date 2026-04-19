@@ -1,4 +1,4 @@
-package LAB02.src;
+package OtherProjects.hust.soict.globalict.lab02.LAB02.src;
 
 public class TestPassingParameter {
     public static void main(String[] args) {
