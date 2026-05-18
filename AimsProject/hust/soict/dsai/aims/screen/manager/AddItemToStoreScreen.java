@@ -1,8 +1,8 @@
 package hust.soict.dsai.aims.screen.manager;
 
-import hust.soict.dsai.aims.store.Store;
-import javax.swing.*;
+import hust.soict.globalict.aims.store.Store;
 import java.awt.*;
+import javax.swing.*;
 
 public abstract class AddItemToStoreScreen extends JFrame {
     protected Store store;

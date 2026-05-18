@@ -1,7 +1,7 @@
 package hust.soict.dsai.aims.screen.manager;
 
-import hust.soict.dsai.aims.media.Book;
-import hust.soict.dsai.aims.store.Store;
+import hust.soict.globalict.aims.media.Book;
+import hust.soict.globalict.aims.store.Store;
 import javax.swing.*;
 
 public class AddBookToStoreScreen extends AddItemToStoreScreen {

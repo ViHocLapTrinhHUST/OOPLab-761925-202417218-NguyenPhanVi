@@ -1,9 +1,9 @@
 package hust.soict.dsai.aims.screen.manager;
 
-import hust.soict.dsai.aims.media.Media;
-import hust.soict.dsai.aims.media.Playable;
-import javax.swing.*;
+import hust.soict.globalict.aims.media.Media;
+import hust.soict.globalict.aims.media.Playable;
 import java.awt.*;
+import javax.swing.*;
 
 public class MediaStore extends JPanel {
     private Media media;

@@ -1,7 +1,7 @@
 package hust.soict.dsai.aims.screen.manager;
 
-import hust.soict.dsai.aims.store.Store;
-import hust.soict.dsai.aims.media.Media;
+import hust.soict.globalict.aims.store.Store;
+import hust.soict.globalict.aims.media.Media;
 import javax.swing.*;
 import java.awt.*;
 import java.util.ArrayList;

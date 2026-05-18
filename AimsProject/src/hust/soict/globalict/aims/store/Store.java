@@ -13,4 +13,7 @@ public class Store {
         System.out.println("--- STORE INVENTORY ---");
         for (Media m : itemsInStore) System.out.println(m.toString());
     }
+    public ArrayList<Media> getItemsInStore() {
+        return itemsInStore;
+    }
 }
