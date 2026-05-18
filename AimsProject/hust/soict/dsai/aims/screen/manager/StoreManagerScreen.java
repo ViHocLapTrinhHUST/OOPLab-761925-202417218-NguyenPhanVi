@@ -48,6 +48,20 @@ public class StoreManagerScreen extends JFrame {
             dispose();
         });
         
+        addCD.addActionListener(e -> {
+            new AddCompactDiscToStoreScreen(store);
+            dispose();
+        });
+
+        addDVD.addActionListener(e -> {
+            new AddDigitalVideoDiscToStoreScreen(store);
+            dispose();
+        });
+        addBook.addActionListener(e -> {
+            new AddBookToStoreScreen(store);
+            dispose();
+        });
+        
         smUpdateStore.add(addBook);
         smUpdateStore.add(addCD);
         smUpdateStore.add(addDVD);

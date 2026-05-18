@@ -2,11 +2,6 @@ package hust.soict.dsai.aims.screen.manager;
 
 import hust.soict.globalict.aims.media.DigitalVideoDisc;
 import hust.soict.globalict.aims.store.Store;
-import hust.soict.globalict.aims.media.Media;
-import javax.swing.*;
-import java.awt.*;
-import java.util.ArrayList;
-
 public class StoreManagerScreenTest {
     public static void main(String[] args) {
         Store store = new Store();
